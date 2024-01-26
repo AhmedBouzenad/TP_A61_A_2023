@@ -1,0 +1,7 @@
+# api
+flask==1.0.2
+
+# local regression_model package
+# update with your local path
+# -e "E:\TECHNIQUES_EN_IA\CURSUS_IA\8. PRÉPARATION DE LA SOLUTION D'IA POUR LA MISE EN PRODUCTION\1. TP\TP_A61_A_2023\packages\regression_model"
+#-e "e:\techniques_en_ia\cursus_ia\8. préparation de la solution d'ia pour la mise en production\1. tp\tp_a61_a_2023\packages\regression_model"
